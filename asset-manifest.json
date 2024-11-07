@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.601fecc7.js",
-    "static/js/453.36770f7f.chunk.js": "/static/js/453.36770f7f.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.601fecc7.js.map": "/static/js/main.601fecc7.js.map",
-    "453.36770f7f.chunk.js.map": "/static/js/453.36770f7f.chunk.js.map"
+    "main.css": "/react-animation-app/static/css/main.f855e6bc.css",
+    "main.js": "/react-animation-app/static/js/main.dc699f2f.js",
+    "static/js/453.36770f7f.chunk.js": "/react-animation-app/static/js/453.36770f7f.chunk.js",
+    "static/media/logo.svg": "/react-animation-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-animation-app/index.html",
+    "main.f855e6bc.css.map": "/react-animation-app/static/css/main.f855e6bc.css.map",
+    "main.dc699f2f.js.map": "/react-animation-app/static/js/main.dc699f2f.js.map",
+    "453.36770f7f.chunk.js.map": "/react-animation-app/static/js/453.36770f7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.601fecc7.js"
+    "static/js/main.dc699f2f.js"
   ]
 }
